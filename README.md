@@ -51,7 +51,7 @@ plt.show()
 ```
 
 ## Output:
-![linear regression using gradient descent](.png)
+![linear regression using gradient descent](2.3.png)
 
 
 ## Result:
