@@ -8,10 +8,12 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Load the dataset and extract R&D Spend (X) and Profit (y) as input and output variables.
+2. Normalize the input feature X using mean and standard deviation to improve convergence.
+3. Initialize model parameters slope (m) and intercept (b) to zero.
+4. For a fixed number of epochs, compute predicted values and calculate gradients of loss w.r.t m and b.
+5. Update m and b using gradient descent with a chosen learning rate to minimize error.
+6. Use the trained model to predict profit for new input and visualize results with a regression line.
 
 ## Program:
 
